@@ -1,1 +1,3 @@
-git_add_commands_02 add 
+git_add_commands_02 add
+
+hello,i'm test.
